@@ -40,6 +40,8 @@ var scoreText;
 
 var jump, left, right;
 
+function gofull() { game.scale.startFullScreen(false);}
+
 function create() {
 
     if (!game.device.desktop){ game.input.onDown.add(gofull, this); }
