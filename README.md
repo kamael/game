@@ -1,2 +1,1 @@
-https://kamael.github.io/game/
-
+[https://kamael.github.io/game/](kamael.github.io/game)
